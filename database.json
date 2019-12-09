@@ -1,7 +1,7 @@
 {
    "conference": {
       "02/06/2021": {
-         "Speakers": [
+         "Track 1": [
             {
                "title": "Title",
                "description": "description",
@@ -20,7 +20,7 @@
             
             
          ],
-         "Events": [
+         "Track 2": [
             {
                "title": "Event",
                "description": "description",

@@ -335,90 +335,10 @@
    },
    "about": {
       "name": "Conference Name",
-      "logoUrl": "",
-      "location": "Urbana, Il",
-      "date": "06 February 2021",
+      "logoUrl": "http://audero.it/img/logo-audero.png",
+      "location": "London, UK",
+      "date": "06 February 2015",
       "twitter": "ConferenceName",
       "website": "http://www.conference.com"
    }
 }
-
-
-{
-   "conference": {
-      "02/06/2021": {
-         "Track 1": [
-            {
-               "title": "Title",
-               "description": "description",
-               "speaker": [
-                  {
-                     "name": "Speaker Name",
-                     "bio": "bio",
-                     "twitter": "twitter handle",
-                     "website": "website"
-                  }
-               ],
-               "startTime": "09:00",
-               "endTime": "09:45",
-               "language": "English"
-            },
-            
-            
-         ],
-         "Track 2": [
-            {
-               "title": "Event",
-               "description": "description",
-               "speaker": [
-                  {
-                     "name": "name",
-                     "bio": "bio",
-                     "twitter": "twitter handle",
-                     "website": "website"
-                  }
-               ],
-               "startTime": "09:00",
-               "endTime": "09:45",
-               "language": "English"
-            },
-            /*second day*/
-            
-      "02/07/2021": {
-         "Speakers": [
-            {
-               "title": "tite",
-               "description": "description",
-               "speaker": [
-                  {
-                     "name": "name",
-                     "bio": "bio",
-                     "twitter": "twitter handle",
-                     "website": "website"
-                  }
-               ],
-               "startTime": "09:00",
-               "endTime": "09:45",
-               "language": "English"
-            },
-            
-         ],
-         "Task 2": [
-            {
-               "title": "Event",
-               "description": "description",
-               "speaker": [
-                  {
-                     "name": "name",
-                     "bio": "bio",
-                     "twitter": "twitter handle",
-                     "website": "site"
-                  }
-               ],
-               "startTime": "09:00",
-               "endTime": "09:45",
-               "language": "English"
-            },
-            
-         ]
-      }

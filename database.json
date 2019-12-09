@@ -19,8 +19,8 @@
                "language": "English"
             },
             {
-               "title": "This is test title 2",
-               "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent vitae sollicitudin nibh. Mauris in blandit eros, sit amet feugiat eros. Praesent placerat ante eget pharetra molestie. Nulla facilisi. Aliquam vel suscipit massa, non maximus purus. Nunc mauris turpis, imperdiet vel orci bibendum, dignissim aliquam erat. Fusce id consequat risus. Phasellus urna turpis, lacinia placerat mi eu, vulputate sagittis velit.",
+               "title": "Title of Speech",
+               "description": "description",
                "speaker": [
                   {
                      "name": "Speaker Name",
@@ -35,8 +35,8 @@
                "language": "English"
             },
             {
-               "title": "This is test title 3",
-               "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent vitae sollicitudin nibh. Mauris in blandit eros, sit amet feugiat eros. Praesent placerat ante eget pharetra molestie. Nulla facilisi. Aliquam vel suscipit massa, non maximus purus. Nunc mauris turpis, imperdiet vel orci bibendum, dignissim aliquam erat. Fusce id consequat risus. Phasellus urna turpis, lacinia placerat mi eu, vulputate sagittis velit.",
+               "title": "Title of Speech",
+               "description": "description",
                "speaker": [
                   {
                      "name": "Speaker Name",
@@ -51,8 +51,8 @@
                "language": "English"
             },
             {
-               "title": "This is test title 4",
-               "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent vitae sollicitudin nibh. Mauris in blandit eros, sit amet feugiat eros. Praesent placerat ante eget pharetra molestie. Nulla facilisi. Aliquam vel suscipit massa, non maximus purus. Nunc mauris turpis, imperdiet vel orci bibendum, dignissim aliquam erat. Fusce id consequat risus. Phasellus urna turpis, lacinia placerat mi eu, vulputate sagittis velit.",
+               "title": "Title of Speech",
+               "description": "description",
                "speaker": [
                   {
                      "name": "Speaker Name",
@@ -67,8 +67,8 @@
                "language": "English"
             },
             {
-               "title": "This is test title 5",
-               "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent vitae sollicitudin nibh. Mauris in blandit eros, sit amet feugiat eros. Praesent placerat ante eget pharetra molestie. Nulla facilisi. Aliquam vel suscipit massa, non maximus purus. Nunc mauris turpis, imperdiet vel orci bibendum, dignissim aliquam erat. Fusce id consequat risus. Phasellus urna turpis, lacinia placerat mi eu, vulputate sagittis velit.",
+               "title": "Title of Speech",
+               "description": "description",
                "speaker": [
                   {
                     "name": "Speaker Name",
@@ -85,8 +85,8 @@
          ],
          "Track 2": [
             {
-               "title": "This is test title 6",
-               "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent vitae sollicitudin nibh. Mauris in blandit eros, sit amet feugiat eros. Praesent placerat ante eget pharetra molestie. Nulla facilisi. Aliquam vel suscipit massa, non maximus purus. Nunc mauris turpis, imperdiet vel orci bibendum, dignissim aliquam erat. Fusce id consequat risus. Phasellus urna turpis, lacinia placerat mi eu, vulputate sagittis velit.",
+               "title": "Title of Speech",
+               "description": "description",
                "speaker": [
                   {
                     "name": "Speaker Name",
@@ -101,8 +101,8 @@
                "language": "English"
             },
             {
-               "title": "This is test title 7",
-               "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent vitae sollicitudin nibh. Mauris in blandit eros, sit amet feugiat eros. Praesent placerat ante eget pharetra molestie. Nulla facilisi. Aliquam vel suscipit massa, non maximus purus. Nunc mauris turpis, imperdiet vel orci bibendum, dignissim aliquam erat. Fusce id consequat risus. Phasellus urna turpis, lacinia placerat mi eu, vulputate sagittis velit.",
+               "title": "Title of Speech",
+               "description": "description",
                "speaker": [
                   {
                      "name": "Speaker Name",
@@ -117,8 +117,8 @@
                "language": "English"
             },
             {
-               "title": "This is test title 8",
-               "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent vitae sollicitudin nibh. Mauris in blandit eros, sit amet feugiat eros. Praesent placerat ante eget pharetra molestie. Nulla facilisi. Aliquam vel suscipit massa, non maximus purus. Nunc mauris turpis, imperdiet vel orci bibendum, dignissim aliquam erat. Fusce id consequat risus. Phasellus urna turpis, lacinia placerat mi eu, vulputate sagittis velit.",
+               "title": "Title of Speech",
+               "description": "description",
                "speaker": [
                   {
                      "name": "Speaker Name",
@@ -133,8 +133,8 @@
                "language": "English"
             },
             {
-               "title": "This is test title 9",
-               "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent vitae sollicitudin nibh. Mauris in blandit eros, sit amet feugiat eros. Praesent placerat ante eget pharetra molestie. Nulla facilisi. Aliquam vel suscipit massa, non maximus purus. Nunc mauris turpis, imperdiet vel orci bibendum, dignissim aliquam erat. Fusce id consequat risus. Phasellus urna turpis, lacinia placerat mi eu, vulputate sagittis velit.",
+               "title": "Title of Speech",
+               "description": "description",
                "speaker": [
                   {
                      "name": "Speaker Name",
@@ -149,8 +149,8 @@
                "language": "English"
             },
             {
-               "title": "This is test title 10",
-               "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent vitae sollicitudin nibh. Mauris in blandit eros, sit amet feugiat eros. Praesent placerat ante eget pharetra molestie. Nulla facilisi. Aliquam vel suscipit massa, non maximus purus. Nunc mauris turpis, imperdiet vel orci bibendum, dignissim aliquam erat. Fusce id consequat risus. Phasellus urna turpis, lacinia placerat mi eu, vulputate sagittis velit.",
+               "title": "Title of Speech",
+               "description": "description",
                "speaker": [
                   {
                      "name": "Speaker Name",
@@ -169,8 +169,8 @@
       "02/07/2015": {
          "Track 1": [
             {
-               "title": "This is test title 11",
-               "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent vitae sollicitudin nibh. Mauris in blandit eros, sit amet feugiat eros. Praesent placerat ante eget pharetra molestie. Nulla facilisi. Aliquam vel suscipit massa, non maximus purus. Nunc mauris turpis, imperdiet vel orci bibendum, dignissim aliquam erat. Fusce id consequat risus. Phasellus urna turpis, lacinia placerat mi eu, vulputate sagittis velit.",
+               "title": "Title of Speech",
+               "description": "description",
                "speaker": [
                   {
                      "name": "Speaker Name",
@@ -185,8 +185,8 @@
                "language": "English"
             },
             {
-               "title": "This is test title 12",
-               "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent vitae sollicitudin nibh. Mauris in blandit eros, sit amet feugiat eros. Praesent placerat ante eget pharetra molestie. Nulla facilisi. Aliquam vel suscipit massa, non maximus purus. Nunc mauris turpis, imperdiet vel orci bibendum, dignissim aliquam erat. Fusce id consequat risus. Phasellus urna turpis, lacinia placerat mi eu, vulputate sagittis velit.",
+               "title": "Title of Speech",
+               "description": "description",
                "speaker": [
                   {
                      "name": "Speaker Name",
@@ -201,8 +201,8 @@
                "language": "English"
             },
             {
-               "title": "This is test title 13",
-               "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent vitae sollicitudin nibh. Mauris in blandit eros, sit amet feugiat eros. Praesent placerat ante eget pharetra molestie. Nulla facilisi. Aliquam vel suscipit massa, non maximus purus. Nunc mauris turpis, imperdiet vel orci bibendum, dignissim aliquam erat. Fusce id consequat risus. Phasellus urna turpis, lacinia placerat mi eu, vulputate sagittis velit.",
+               "title": "Title of Speech",
+               "description": "description",
                "speaker": [
                   {
                      "name": "Speaker Name",
@@ -217,8 +217,8 @@
                "language": "English"
             },
             {
-               "title": "This is test title 14",
-               "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent vitae sollicitudin nibh. Mauris in blandit eros, sit amet feugiat eros. Praesent placerat ante eget pharetra molestie. Nulla facilisi. Aliquam vel suscipit massa, non maximus purus. Nunc mauris turpis, imperdiet vel orci bibendum, dignissim aliquam erat. Fusce id consequat risus. Phasellus urna turpis, lacinia placerat mi eu, vulputate sagittis velit.",
+               "title": "Title of Speech",
+               "description": "description",
                "speaker": [
                   {
                      "name": "Speaker Name",
@@ -233,8 +233,8 @@
                "language": "English"
             },
             {
-               "title": "This is test title 15",
-               "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent vitae sollicitudin nibh. Mauris in blandit eros, sit amet feugiat eros. Praesent placerat ante eget pharetra molestie. Nulla facilisi. Aliquam vel suscipit massa, non maximus purus. Nunc mauris turpis, imperdiet vel orci bibendum, dignissim aliquam erat. Fusce id consequat risus. Phasellus urna turpis, lacinia placerat mi eu, vulputate sagittis velit.",
+              "title": "Title of Speech",
+               "description": "description",
                "speaker": [
                   {
                      "name": "Speaker Name",
@@ -251,15 +251,13 @@
          ],
          "Track 2": [
             {
-               "title": "This is test title 16",
-               "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent vitae sollicitudin nibh. Mauris in blandit eros, sit amet feugiat eros. Praesent placerat ante eget pharetra molestie. Nulla facilisi. Aliquam vel suscipit massa, non maximus purus. Nunc mauris turpis, imperdiet vel orci bibendum, dignissim aliquam erat. Fusce id consequat risus. Phasellus urna turpis, lacinia placerat mi eu, vulputate sagittis velit.",
+               "title": "Event Title",
+               "description": "description",
                "speaker": [
                   {
-                     "name": "Speaker Name",
+                     "name": "Event Location",
                      "bio": "bio",
                      "avatar": "http://www.gravatar.com/avatar/8b01a8b4d7a0a9079a4e97b1ddedbe56",
-                     "twitter": "twitter handle",
-                     "website": "website"
                   }
                ],
                "startTime": "09:00",
@@ -267,15 +265,13 @@
                "language": "English"
             },
             {
-               "title": "This is test title 17",
-               "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent vitae sollicitudin nibh. Mauris in blandit eros, sit amet feugiat eros. Praesent placerat ante eget pharetra molestie. Nulla facilisi. Aliquam vel suscipit massa, non maximus purus. Nunc mauris turpis, imperdiet vel orci bibendum, dignissim aliquam erat. Fusce id consequat risus. Phasellus urna turpis, lacinia placerat mi eu, vulputate sagittis velit.",
+               "title": "Event Title",
+               "description": "description",
                "speaker": [
                   {
-                     "name": "Speaker Name",
+                     "name": "Event Location",
                      "bio": "bio",
                      "avatar": "http://www.gravatar.com/avatar/8b01a8b4d7a0a9079a4e97b1ddedbe56",
-                     "twitter": "twitter handle",
-                     "website": "website"
                   }
                ],
                "startTime": "09:45",
@@ -283,15 +279,13 @@
                "language": "English"
             },
             {
-               "title": "This is test title 18",
-               "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent vitae sollicitudin nibh. Mauris in blandit eros, sit amet feugiat eros. Praesent placerat ante eget pharetra molestie. Nulla facilisi. Aliquam vel suscipit massa, non maximus purus. Nunc mauris turpis, imperdiet vel orci bibendum, dignissim aliquam erat. Fusce id consequat risus. Phasellus urna turpis, lacinia placerat mi eu, vulputate sagittis velit.",
+               "title": "Event Title",
+               "description": "description",
                "speaker": [
                   {
-                     "name": "Speaker Name",
+                     "name": "Event Location",
                      "bio": "bio",
                      "avatar": "http://www.gravatar.com/avatar/8b01a8b4d7a0a9079a4e97b1ddedbe56",
-                     "twitter": "twitter handle",
-                     "website": "website"
                   }
                ],
                "startTime": "10:30",
@@ -299,15 +293,13 @@
                "language": "English"
             },
             {
-               "title": "This is test title 19",
-               "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent vitae sollicitudin nibh. Mauris in blandit eros, sit amet feugiat eros. Praesent placerat ante eget pharetra molestie. Nulla facilisi. Aliquam vel suscipit massa, non maximus purus. Nunc mauris turpis, imperdiet vel orci bibendum, dignissim aliquam erat. Fusce id consequat risus. Phasellus urna turpis, lacinia placerat mi eu, vulputate sagittis velit.",
+               "title": "Event Title",
+               "description": "description",
                "speaker": [
                   {
-                     "name": "Speaker Name",
+                     "name": "Event Location",
                      "bio": "bio",
                      "avatar": "http://www.gravatar.com/avatar/8b01a8b4d7a0a9079a4e97b1ddedbe56",
-                     "twitter": "twitter handle",
-                     "website": "website"
                   }
                ],
                "startTime": "11:15",
@@ -315,15 +307,13 @@
                "language": "English"
             },
             {
-               "title": "This is test title 20",
-               "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent vitae sollicitudin nibh. Mauris in blandit eros, sit amet feugiat eros. Praesent placerat ante eget pharetra molestie. Nulla facilisi. Aliquam vel suscipit massa, non maximus purus. Nunc mauris turpis, imperdiet vel orci bibendum, dignissim aliquam erat. Fusce id consequat risus. Phasellus urna turpis, lacinia placerat mi eu, vulputate sagittis velit.",
+               "title": "Event Title",
+               "description": "description",
                "speaker": [
                   {
-                     "name": "Speaker Name",
+                     "name": "Event Location",
                      "bio": "bio",
                      "avatar": "http://www.gravatar.com/avatar/8b01a8b4d7a0a9079a4e97b1ddedbe56",
-                     "twitter": "twitter handle",
-                     "website": "website"
                   }
                ],
                "startTime": "12:00",

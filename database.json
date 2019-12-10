@@ -4,11 +4,11 @@
          "Track 1": [
             {
                "title": "change the title",
-               "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent vitae sollicitudin nibh. Mauris in blandit eros, sit amet feugiat eros. Praesent placerat ante eget pharetra molestie. Nulla facilisi. Aliquam vel suscipit massa, non maximus purus. Nunc mauris turpis, imperdiet vel orci bibendum, dignissim aliquam erat. Fusce id consequat risus. Phasellus urna turpis, lacinia placerat mi eu, vulputate sagittis velit.",
+               "description": "Stuff and things",
                "speaker": [
                   {
-                     "name": "Aurelio De Rosa clone 1",
-                     "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent vitae sollicitudin nibh. Mauris in blandit eros, sit amet feugiat eros. Praesent placerat ante eget pharetra molestie. Nulla facilisi. Aliquam vel suscipit massa, non maximus purus. Nunc mauris turpis, imperdiet vel orci bibendum, dignissim aliquam erat. Fusce id consequat risus. Phasellus urna turpis, lacinia placerat mi eu, vulputate sagittis velit.",
+                     "name": "Carl Sandberg",
+                     "bio": "stuff and things that need to be talked about",
                      "avatar": "http://www.gravatar.com/avatar/8b01a8b4d7a0a9079a4e97b1ddedbe56",
                      "twitter": "AurelioDeRosa1",
                      "website": "http://www.audero.it"

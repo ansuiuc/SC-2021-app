@@ -1,6 +1,6 @@
 {
    "conference": {
-      "02/06/2015": {
+      "02/06/2019": {
          "Track 1": [
             {
                "title": "Title of Speech",
@@ -166,7 +166,7 @@
             }
          ]
       },
-      "02/07/2015": {
+      "02/07/2019": {
          "Track 1": [
             {
                "title": "Title of Speech",
@@ -325,10 +325,10 @@
    },
    "about": {
       "name": "ANS 2021 Student Conference",
-      "logoUrl": "logo",
+      "logoUrl": "http://logo.com.png",
       "location": "Urbana, Il",
       "date": "06 February 2021",
-      "twitter": "twitter handle",
-      "website": "URL"
+      "twitter": "twitterhandle",
+      "website": "URL.com"
    }
 }

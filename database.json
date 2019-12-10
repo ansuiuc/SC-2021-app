@@ -23,11 +23,11 @@
                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent vitae sollicitudin nibh. Mauris in blandit eros, sit amet feugiat eros. Praesent placerat ante eget pharetra molestie. Nulla facilisi. Aliquam vel suscipit massa, non maximus purus. Nunc mauris turpis, imperdiet vel orci bibendum, dignissim aliquam erat. Fusce id consequat risus. Phasellus urna turpis, lacinia placerat mi eu, vulputate sagittis velit.",
                "speaker": [
                   {
-                     "name": "Aurelio De Rosa clone 2",
-                     "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent vitae sollicitudin nibh. Mauris in blandit eros, sit amet feugiat eros. Praesent placerat ante eget pharetra molestie. Nulla facilisi. Aliquam vel suscipit massa, non maximus purus. Nunc mauris turpis, imperdiet vel orci bibendum, dignissim aliquam erat. Fusce id consequat risus. Phasellus urna turpis, lacinia placerat mi eu, vulputate sagittis velit.",
-                     "avatar": "http://www.gravatar.com/avatar/8b01a8b4d7a0a9079a4e97b1ddedbe56",
-                     "twitter": "AurelioDeRosa2",
-                     "website": "http://www.audero.it"
+                     "name": "Carl Sandberg",
+                     "bio": "stuff and things that need to be talked about",
+                     "avatar": "https://nsryan2.github.io/simple-conference/img/speakers/speaker.jpeg",
+                     "twitter": "ANS_Illinois",
+                     "website": "https://nsryan2.github.io/simple-conference/speakers.html"
                   }
                ],
                "startTime": "09:30",
@@ -39,11 +39,11 @@
                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent vitae sollicitudin nibh. Mauris in blandit eros, sit amet feugiat eros. Praesent placerat ante eget pharetra molestie. Nulla facilisi. Aliquam vel suscipit massa, non maximus purus. Nunc mauris turpis, imperdiet vel orci bibendum, dignissim aliquam erat. Fusce id consequat risus. Phasellus urna turpis, lacinia placerat mi eu, vulputate sagittis velit.",
                "speaker": [
                   {
-                     "name": "Aurelio De Rosa clone 3",
-                     "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent vitae sollicitudin nibh. Mauris in blandit eros, sit amet feugiat eros. Praesent placerat ante eget pharetra molestie. Nulla facilisi. Aliquam vel suscipit massa, non maximus purus. Nunc mauris turpis, imperdiet vel orci bibendum, dignissim aliquam erat. Fusce id consequat risus. Phasellus urna turpis, lacinia placerat mi eu, vulputate sagittis velit.",
-                     "avatar": "http://www.gravatar.com/avatar/8b01a8b4d7a0a9079a4e97b1ddedbe56",
-                     "twitter": "AurelioDeRosa3",
-                     "website": "http://www.audero.it"
+                     "name": "Carl Sandberg",
+                     "bio": "stuff and things that need to be talked about",
+                     "avatar": "https://nsryan2.github.io/simple-conference/img/speakers/speaker.jpeg",
+                     "twitter": "ANS_Illinois",
+                     "website": "https://nsryan2.github.io/simple-conference/speakers.html"
                   }
                ],
                "startTime": "10:30",
@@ -55,11 +55,11 @@
                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent vitae sollicitudin nibh. Mauris in blandit eros, sit amet feugiat eros. Praesent placerat ante eget pharetra molestie. Nulla facilisi. Aliquam vel suscipit massa, non maximus purus. Nunc mauris turpis, imperdiet vel orci bibendum, dignissim aliquam erat. Fusce id consequat risus. Phasellus urna turpis, lacinia placerat mi eu, vulputate sagittis velit.",
                "speaker": [
                   {
-                     "name": "Aurelio De Rosa clone 4",
-                     "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent vitae sollicitudin nibh. Mauris in blandit eros, sit amet feugiat eros. Praesent placerat ante eget pharetra molestie. Nulla facilisi. Aliquam vel suscipit massa, non maximus purus. Nunc mauris turpis, imperdiet vel orci bibendum, dignissim aliquam erat. Fusce id consequat risus. Phasellus urna turpis, lacinia placerat mi eu, vulputate sagittis velit.",
-                     "avatar": "http://www.gravatar.com/avatar/8b01a8b4d7a0a9079a4e97b1ddedbe56",
-                     "twitter": "AurelioDeRosa4",
-                     "website": "http://www.audero.it"
+                     "name": "Carl Sandberg",
+                     "bio": "stuff and things that need to be talked about",
+                     "avatar": "https://nsryan2.github.io/simple-conference/img/speakers/speaker.jpeg",
+                     "twitter": "ANS_Illinois",
+                     "website": "https://nsryan2.github.io/simple-conference/speakers.html"
                   }
                ],
                "startTime": "11:15",
@@ -71,11 +71,11 @@
                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent vitae sollicitudin nibh. Mauris in blandit eros, sit amet feugiat eros. Praesent placerat ante eget pharetra molestie. Nulla facilisi. Aliquam vel suscipit massa, non maximus purus. Nunc mauris turpis, imperdiet vel orci bibendum, dignissim aliquam erat. Fusce id consequat risus. Phasellus urna turpis, lacinia placerat mi eu, vulputate sagittis velit.",
                "speaker": [
                   {
-                     "name": "Aurelio De Rosa clone 5",
-                     "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent vitae sollicitudin nibh. Mauris in blandit eros, sit amet feugiat eros. Praesent placerat ante eget pharetra molestie. Nulla facilisi. Aliquam vel suscipit massa, non maximus purus. Nunc mauris turpis, imperdiet vel orci bibendum, dignissim aliquam erat. Fusce id consequat risus. Phasellus urna turpis, lacinia placerat mi eu, vulputate sagittis velit.",
-                     "avatar": "http://www.gravatar.com/avatar/8b01a8b4d7a0a9079a4e97b1ddedbe56",
-                     "twitter": "AurelioDeRosa5",
-                     "website": "http://www.audero.it"
+                     "name": "Carl Sandberg",
+                     "bio": "stuff and things that need to be talked about",
+                     "avatar": "https://nsryan2.github.io/simple-conference/img/speakers/speaker.jpeg",
+                     "twitter": "ANS_Illinois",
+                     "website": "https://nsryan2.github.io/simple-conference/speakers.html"
                   }
                ],
                "startTime": "12:00",
@@ -83,17 +83,17 @@
                "language": "English"
             }
          ],
-         "Track 2": [
+         "Events": [
             {
                "title": "This is test title 6",
                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent vitae sollicitudin nibh. Mauris in blandit eros, sit amet feugiat eros. Praesent placerat ante eget pharetra molestie. Nulla facilisi. Aliquam vel suscipit massa, non maximus purus. Nunc mauris turpis, imperdiet vel orci bibendum, dignissim aliquam erat. Fusce id consequat risus. Phasellus urna turpis, lacinia placerat mi eu, vulputate sagittis velit.",
                "speaker": [
                   {
-                     "name": "Aurelio De Rosa clone 6",
-                     "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent vitae sollicitudin nibh. Mauris in blandit eros, sit amet feugiat eros. Praesent placerat ante eget pharetra molestie. Nulla facilisi. Aliquam vel suscipit massa, non maximus purus. Nunc mauris turpis, imperdiet vel orci bibendum, dignissim aliquam erat. Fusce id consequat risus. Phasellus urna turpis, lacinia placerat mi eu, vulputate sagittis velit.",
-                     "avatar": "http://www.gravatar.com/avatar/8b01a8b4d7a0a9079a4e97b1ddedbe56",
-                     "twitter": "AurelioDeRosa6",
-                     "website": "http://www.audero.it"
+                     "name": "Carl Sandberg",
+                     "bio": "stuff and things that need to be talked about",
+                     "avatar": "https://nsryan2.github.io/simple-conference/img/speakers/speaker.jpeg",
+                     "twitter": "ANS_Illinois",
+                     "website": "https://nsryan2.github.io/simple-conference/speakers.html"
                   }
                ],
                "startTime": "09:00",
@@ -105,11 +105,11 @@
                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent vitae sollicitudin nibh. Mauris in blandit eros, sit amet feugiat eros. Praesent placerat ante eget pharetra molestie. Nulla facilisi. Aliquam vel suscipit massa, non maximus purus. Nunc mauris turpis, imperdiet vel orci bibendum, dignissim aliquam erat. Fusce id consequat risus. Phasellus urna turpis, lacinia placerat mi eu, vulputate sagittis velit.",
                "speaker": [
                   {
-                     "name": "Aurelio De Rosa clone 7",
-                     "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent vitae sollicitudin nibh. Mauris in blandit eros, sit amet feugiat eros. Praesent placerat ante eget pharetra molestie. Nulla facilisi. Aliquam vel suscipit massa, non maximus purus. Nunc mauris turpis, imperdiet vel orci bibendum, dignissim aliquam erat. Fusce id consequat risus. Phasellus urna turpis, lacinia placerat mi eu, vulputate sagittis velit.",
-                     "avatar": "http://www.gravatar.com/avatar/8b01a8b4d7a0a9079a4e97b1ddedbe56",
-                     "twitter": "AurelioDeRosa7",
-                     "website": "http://www.audero.it"
+                     "name": "Carl Sandberg",
+                     "bio": "stuff and things that need to be talked about",
+                     "avatar": "https://nsryan2.github.io/simple-conference/img/speakers/speaker.jpeg",
+                     "twitter": "ANS_Illinois",
+                     "website": "https://nsryan2.github.io/simple-conference/speakers.html"
                   }
                ],
                "startTime": "09:45",
@@ -121,11 +121,11 @@
                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent vitae sollicitudin nibh. Mauris in blandit eros, sit amet feugiat eros. Praesent placerat ante eget pharetra molestie. Nulla facilisi. Aliquam vel suscipit massa, non maximus purus. Nunc mauris turpis, imperdiet vel orci bibendum, dignissim aliquam erat. Fusce id consequat risus. Phasellus urna turpis, lacinia placerat mi eu, vulputate sagittis velit.",
                "speaker": [
                   {
-                     "name": "Aurelio De Rosa clone 8",
-                     "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent vitae sollicitudin nibh. Mauris in blandit eros, sit amet feugiat eros. Praesent placerat ante eget pharetra molestie. Nulla facilisi. Aliquam vel suscipit massa, non maximus purus. Nunc mauris turpis, imperdiet vel orci bibendum, dignissim aliquam erat. Fusce id consequat risus. Phasellus urna turpis, lacinia placerat mi eu, vulputate sagittis velit.",
-                     "avatar": "http://www.gravatar.com/avatar/8b01a8b4d7a0a9079a4e97b1ddedbe56",
-                     "twitter": "AurelioDeRosa8",
-                     "website": "http://www.audero.it"
+                     "name": "Carl Sandberg",
+                     "bio": "stuff and things that need to be talked about",
+                     "avatar": "https://nsryan2.github.io/simple-conference/img/speakers/speaker.jpeg",
+                     "twitter": "ANS_Illinois",
+                     "website": "https://nsryan2.github.io/simple-conference/speakers.html"
                   }
                ],
                "startTime": "10:30",
@@ -137,11 +137,11 @@
                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent vitae sollicitudin nibh. Mauris in blandit eros, sit amet feugiat eros. Praesent placerat ante eget pharetra molestie. Nulla facilisi. Aliquam vel suscipit massa, non maximus purus. Nunc mauris turpis, imperdiet vel orci bibendum, dignissim aliquam erat. Fusce id consequat risus. Phasellus urna turpis, lacinia placerat mi eu, vulputate sagittis velit.",
                "speaker": [
                   {
-                     "name": "Aurelio De Rosa clone 9",
-                     "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent vitae sollicitudin nibh. Mauris in blandit eros, sit amet feugiat eros. Praesent placerat ante eget pharetra molestie. Nulla facilisi. Aliquam vel suscipit massa, non maximus purus. Nunc mauris turpis, imperdiet vel orci bibendum, dignissim aliquam erat. Fusce id consequat risus. Phasellus urna turpis, lacinia placerat mi eu, vulputate sagittis velit.",
-                     "avatar": "http://www.gravatar.com/avatar/8b01a8b4d7a0a9079a4e97b1ddedbe56",
-                     "twitter": "AurelioDeRosa9",
-                     "website": "http://www.audero.it"
+                     "name": "Carl Sandberg",
+                     "bio": "stuff and things that need to be talked about",
+                     "avatar": "https://nsryan2.github.io/simple-conference/img/speakers/speaker.jpeg",
+                     "twitter": "ANS_Illinois",
+                     "website": "https://nsryan2.github.io/simple-conference/speakers.html"
                   }
                ],
                "startTime": "11:15",
@@ -153,11 +153,11 @@
                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent vitae sollicitudin nibh. Mauris in blandit eros, sit amet feugiat eros. Praesent placerat ante eget pharetra molestie. Nulla facilisi. Aliquam vel suscipit massa, non maximus purus. Nunc mauris turpis, imperdiet vel orci bibendum, dignissim aliquam erat. Fusce id consequat risus. Phasellus urna turpis, lacinia placerat mi eu, vulputate sagittis velit.",
                "speaker": [
                   {
-                     "name": "Aurelio De Rosa clone 10",
-                     "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent vitae sollicitudin nibh. Mauris in blandit eros, sit amet feugiat eros. Praesent placerat ante eget pharetra molestie. Nulla facilisi. Aliquam vel suscipit massa, non maximus purus. Nunc mauris turpis, imperdiet vel orci bibendum, dignissim aliquam erat. Fusce id consequat risus. Phasellus urna turpis, lacinia placerat mi eu, vulputate sagittis velit.",
-                     "avatar": "http://www.gravatar.com/avatar/8b01a8b4d7a0a9079a4e97b1ddedbe56",
-                     "twitter": "AurelioDeRosa10",
-                     "website": "http://www.audero.it"
+                     "name": "Carl Sandberg",
+                     "bio": "stuff and things that need to be talked about",
+                     "avatar": "https://nsryan2.github.io/simple-conference/img/speakers/speaker.jpeg",
+                     "twitter": "ANS_Illinois",
+                     "website": "https://nsryan2.github.io/simple-conference/speakers.html"
                   }
                ],
                "startTime": "12:00",
@@ -167,7 +167,7 @@
          ]
       },
       "04/08/2021": {
-         "Track 1": [
+         "Speakers": [
             {
                "title": "change the title",
                "description": "Stuff and things",
@@ -189,11 +189,11 @@
                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent vitae sollicitudin nibh. Mauris in blandit eros, sit amet feugiat eros. Praesent placerat ante eget pharetra molestie. Nulla facilisi. Aliquam vel suscipit massa, non maximus purus. Nunc mauris turpis, imperdiet vel orci bibendum, dignissim aliquam erat. Fusce id consequat risus. Phasellus urna turpis, lacinia placerat mi eu, vulputate sagittis velit.",
                "speaker": [
                   {
-                     "name": "Aurelio De Rosa clone 2",
-                     "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent vitae sollicitudin nibh. Mauris in blandit eros, sit amet feugiat eros. Praesent placerat ante eget pharetra molestie. Nulla facilisi. Aliquam vel suscipit massa, non maximus purus. Nunc mauris turpis, imperdiet vel orci bibendum, dignissim aliquam erat. Fusce id consequat risus. Phasellus urna turpis, lacinia placerat mi eu, vulputate sagittis velit.",
-                     "avatar": "http://www.gravatar.com/avatar/8b01a8b4d7a0a9079a4e97b1ddedbe56",
-                     "twitter": "AurelioDeRosa2",
-                     "website": "http://www.audero.it"
+                     "name": "Carl Sandberg",
+                     "bio": "stuff and things that need to be talked about",
+                     "avatar": "https://nsryan2.github.io/simple-conference/img/speakers/speaker.jpeg",
+                     "twitter": "ANS_Illinois",
+                     "website": "https://nsryan2.github.io/simple-conference/speakers.html"
                   }
                ],
                "startTime": "09:30",
@@ -205,11 +205,11 @@
                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent vitae sollicitudin nibh. Mauris in blandit eros, sit amet feugiat eros. Praesent placerat ante eget pharetra molestie. Nulla facilisi. Aliquam vel suscipit massa, non maximus purus. Nunc mauris turpis, imperdiet vel orci bibendum, dignissim aliquam erat. Fusce id consequat risus. Phasellus urna turpis, lacinia placerat mi eu, vulputate sagittis velit.",
                "speaker": [
                   {
-                     "name": "Aurelio De Rosa clone 3",
-                     "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent vitae sollicitudin nibh. Mauris in blandit eros, sit amet feugiat eros. Praesent placerat ante eget pharetra molestie. Nulla facilisi. Aliquam vel suscipit massa, non maximus purus. Nunc mauris turpis, imperdiet vel orci bibendum, dignissim aliquam erat. Fusce id consequat risus. Phasellus urna turpis, lacinia placerat mi eu, vulputate sagittis velit.",
-                     "avatar": "http://www.gravatar.com/avatar/8b01a8b4d7a0a9079a4e97b1ddedbe56",
-                     "twitter": "AurelioDeRosa3",
-                     "website": "http://www.audero.it"
+                     "name": "Carl Sandberg",
+                     "bio": "stuff and things that need to be talked about",
+                     "avatar": "https://nsryan2.github.io/simple-conference/img/speakers/speaker.jpeg",
+                     "twitter": "ANS_Illinois",
+                     "website": "https://nsryan2.github.io/simple-conference/speakers.html"
                   }
                ],
                "startTime": "10:30",
@@ -221,11 +221,11 @@
                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent vitae sollicitudin nibh. Mauris in blandit eros, sit amet feugiat eros. Praesent placerat ante eget pharetra molestie. Nulla facilisi. Aliquam vel suscipit massa, non maximus purus. Nunc mauris turpis, imperdiet vel orci bibendum, dignissim aliquam erat. Fusce id consequat risus. Phasellus urna turpis, lacinia placerat mi eu, vulputate sagittis velit.",
                "speaker": [
                   {
-                     "name": "Aurelio De Rosa clone 4",
-                     "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent vitae sollicitudin nibh. Mauris in blandit eros, sit amet feugiat eros. Praesent placerat ante eget pharetra molestie. Nulla facilisi. Aliquam vel suscipit massa, non maximus purus. Nunc mauris turpis, imperdiet vel orci bibendum, dignissim aliquam erat. Fusce id consequat risus. Phasellus urna turpis, lacinia placerat mi eu, vulputate sagittis velit.",
-                     "avatar": "http://www.gravatar.com/avatar/8b01a8b4d7a0a9079a4e97b1ddedbe56",
-                     "twitter": "AurelioDeRosa4",
-                     "website": "http://www.audero.it"
+                     "name": "Carl Sandberg",
+                     "bio": "stuff and things that need to be talked about",
+                     "avatar": "https://nsryan2.github.io/simple-conference/img/speakers/speaker.jpeg",
+                     "twitter": "ANS_Illinois",
+                     "website": "https://nsryan2.github.io/simple-conference/speakers.html"
                   }
                ],
                "startTime": "11:15",
@@ -237,11 +237,11 @@
                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent vitae sollicitudin nibh. Mauris in blandit eros, sit amet feugiat eros. Praesent placerat ante eget pharetra molestie. Nulla facilisi. Aliquam vel suscipit massa, non maximus purus. Nunc mauris turpis, imperdiet vel orci bibendum, dignissim aliquam erat. Fusce id consequat risus. Phasellus urna turpis, lacinia placerat mi eu, vulputate sagittis velit.",
                "speaker": [
                   {
-                     "name": "Aurelio De Rosa clone 5",
-                     "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent vitae sollicitudin nibh. Mauris in blandit eros, sit amet feugiat eros. Praesent placerat ante eget pharetra molestie. Nulla facilisi. Aliquam vel suscipit massa, non maximus purus. Nunc mauris turpis, imperdiet vel orci bibendum, dignissim aliquam erat. Fusce id consequat risus. Phasellus urna turpis, lacinia placerat mi eu, vulputate sagittis velit.",
-                     "avatar": "http://www.gravatar.com/avatar/8b01a8b4d7a0a9079a4e97b1ddedbe56",
-                     "twitter": "AurelioDeRosa5",
-                     "website": "http://www.audero.it"
+                     "name": "Carl Sandberg",
+                     "bio": "stuff and things that need to be talked about",
+                     "avatar": "https://nsryan2.github.io/simple-conference/img/speakers/speaker.jpeg",
+                     "twitter": "ANS_Illinois",
+                     "website": "https://nsryan2.github.io/simple-conference/speakers.html"
                   }
                ],
                "startTime": "12:00",
@@ -249,17 +249,17 @@
                "language": "English"
             }
          ],
-         "Track 2": [
+         "Events": [
             {
                "title": "This is test title 6",
                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent vitae sollicitudin nibh. Mauris in blandit eros, sit amet feugiat eros. Praesent placerat ante eget pharetra molestie. Nulla facilisi. Aliquam vel suscipit massa, non maximus purus. Nunc mauris turpis, imperdiet vel orci bibendum, dignissim aliquam erat. Fusce id consequat risus. Phasellus urna turpis, lacinia placerat mi eu, vulputate sagittis velit.",
                "speaker": [
                   {
-                     "name": "Aurelio De Rosa clone 6",
-                     "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent vitae sollicitudin nibh. Mauris in blandit eros, sit amet feugiat eros. Praesent placerat ante eget pharetra molestie. Nulla facilisi. Aliquam vel suscipit massa, non maximus purus. Nunc mauris turpis, imperdiet vel orci bibendum, dignissim aliquam erat. Fusce id consequat risus. Phasellus urna turpis, lacinia placerat mi eu, vulputate sagittis velit.",
-                     "avatar": "http://www.gravatar.com/avatar/8b01a8b4d7a0a9079a4e97b1ddedbe56",
-                     "twitter": "AurelioDeRosa6",
-                     "website": "http://www.audero.it"
+                     "name": "Carl Sandberg",
+                     "bio": "stuff and things that need to be talked about",
+                     "avatar": "https://nsryan2.github.io/simple-conference/img/speakers/speaker.jpeg",
+                     "twitter": "ANS_Illinois",
+                     "website": "https://nsryan2.github.io/simple-conference/speakers.html"
                   }
                ],
                "startTime": "09:00",
@@ -271,11 +271,11 @@
                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent vitae sollicitudin nibh. Mauris in blandit eros, sit amet feugiat eros. Praesent placerat ante eget pharetra molestie. Nulla facilisi. Aliquam vel suscipit massa, non maximus purus. Nunc mauris turpis, imperdiet vel orci bibendum, dignissim aliquam erat. Fusce id consequat risus. Phasellus urna turpis, lacinia placerat mi eu, vulputate sagittis velit.",
                "speaker": [
                   {
-                     "name": "Aurelio De Rosa clone 7",
-                     "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent vitae sollicitudin nibh. Mauris in blandit eros, sit amet feugiat eros. Praesent placerat ante eget pharetra molestie. Nulla facilisi. Aliquam vel suscipit massa, non maximus purus. Nunc mauris turpis, imperdiet vel orci bibendum, dignissim aliquam erat. Fusce id consequat risus. Phasellus urna turpis, lacinia placerat mi eu, vulputate sagittis velit.",
-                     "avatar": "http://www.gravatar.com/avatar/8b01a8b4d7a0a9079a4e97b1ddedbe56",
-                     "twitter": "AurelioDeRosa7",
-                     "website": "http://www.audero.it"
+                     "name": "Carl Sandberg",
+                     "bio": "stuff and things that need to be talked about",
+                     "avatar": "https://nsryan2.github.io/simple-conference/img/speakers/speaker.jpeg",
+                     "twitter": "ANS_Illinois",
+                     "website": "https://nsryan2.github.io/simple-conference/speakers.html"
                   }
                ],
                "startTime": "09:45",
@@ -287,11 +287,11 @@
                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent vitae sollicitudin nibh. Mauris in blandit eros, sit amet feugiat eros. Praesent placerat ante eget pharetra molestie. Nulla facilisi. Aliquam vel suscipit massa, non maximus purus. Nunc mauris turpis, imperdiet vel orci bibendum, dignissim aliquam erat. Fusce id consequat risus. Phasellus urna turpis, lacinia placerat mi eu, vulputate sagittis velit.",
                "speaker": [
                   {
-                     "name": "Aurelio De Rosa clone 8",
-                     "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent vitae sollicitudin nibh. Mauris in blandit eros, sit amet feugiat eros. Praesent placerat ante eget pharetra molestie. Nulla facilisi. Aliquam vel suscipit massa, non maximus purus. Nunc mauris turpis, imperdiet vel orci bibendum, dignissim aliquam erat. Fusce id consequat risus. Phasellus urna turpis, lacinia placerat mi eu, vulputate sagittis velit.",
-                     "avatar": "http://www.gravatar.com/avatar/8b01a8b4d7a0a9079a4e97b1ddedbe56",
-                     "twitter": "AurelioDeRosa8",
-                     "website": "http://www.audero.it"
+                     "name": "Carl Sandberg",
+                     "bio": "stuff and things that need to be talked about",
+                     "avatar": "https://nsryan2.github.io/simple-conference/img/speakers/speaker.jpeg",
+                     "twitter": "ANS_Illinois",
+                     "website": "https://nsryan2.github.io/simple-conference/speakers.html"
                   }
                ],
                "startTime": "10:30",
@@ -303,11 +303,11 @@
                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent vitae sollicitudin nibh. Mauris in blandit eros, sit amet feugiat eros. Praesent placerat ante eget pharetra molestie. Nulla facilisi. Aliquam vel suscipit massa, non maximus purus. Nunc mauris turpis, imperdiet vel orci bibendum, dignissim aliquam erat. Fusce id consequat risus. Phasellus urna turpis, lacinia placerat mi eu, vulputate sagittis velit.",
                "speaker": [
                   {
-                     "name": "Aurelio De Rosa clone 9",
-                     "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent vitae sollicitudin nibh. Mauris in blandit eros, sit amet feugiat eros. Praesent placerat ante eget pharetra molestie. Nulla facilisi. Aliquam vel suscipit massa, non maximus purus. Nunc mauris turpis, imperdiet vel orci bibendum, dignissim aliquam erat. Fusce id consequat risus. Phasellus urna turpis, lacinia placerat mi eu, vulputate sagittis velit.",
-                     "avatar": "http://www.gravatar.com/avatar/8b01a8b4d7a0a9079a4e97b1ddedbe56",
-                     "twitter": "AurelioDeRosa9",
-                     "website": "http://www.audero.it"
+                     "name": "Carl Sandberg",
+                     "bio": "stuff and things that need to be talked about",
+                     "avatar": "https://nsryan2.github.io/simple-conference/img/speakers/speaker.jpeg",
+                     "twitter": "ANS_Illinois",
+                     "website": "https://nsryan2.github.io/simple-conference/speakers.html"
                   }
                ],
                "startTime": "11:15",
@@ -319,11 +319,11 @@
                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent vitae sollicitudin nibh. Mauris in blandit eros, sit amet feugiat eros. Praesent placerat ante eget pharetra molestie. Nulla facilisi. Aliquam vel suscipit massa, non maximus purus. Nunc mauris turpis, imperdiet vel orci bibendum, dignissim aliquam erat. Fusce id consequat risus. Phasellus urna turpis, lacinia placerat mi eu, vulputate sagittis velit.",
                "speaker": [
                   {
-                     "name": "Aurelio De Rosa clone 10",
-                     "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent vitae sollicitudin nibh. Mauris in blandit eros, sit amet feugiat eros. Praesent placerat ante eget pharetra molestie. Nulla facilisi. Aliquam vel suscipit massa, non maximus purus. Nunc mauris turpis, imperdiet vel orci bibendum, dignissim aliquam erat. Fusce id consequat risus. Phasellus urna turpis, lacinia placerat mi eu, vulputate sagittis velit.",
-                     "avatar": "http://www.gravatar.com/avatar/8b01a8b4d7a0a9079a4e97b1ddedbe56",
-                     "twitter": "AurelioDeRosa10",
-                     "website": "http://www.audero.it"
+                     "name": "Carl Sandberg",
+                     "bio": "stuff and things that need to be talked about",
+                     "avatar": "https://nsryan2.github.io/simple-conference/img/speakers/speaker.jpeg",
+                     "twitter": "ANS_Illinois",
+                     "website": "https://nsryan2.github.io/simple-conference/speakers.html"
                   }
                ],
                "startTime": "12:00",
@@ -333,7 +333,7 @@
          ]
       },
       "04/09/2021": {
-         "Track 1": [
+         "Speakers": [
             {
                "title": "change the title",
                "description": "Stuff and things",
@@ -355,11 +355,11 @@
                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent vitae sollicitudin nibh. Mauris in blandit eros, sit amet feugiat eros. Praesent placerat ante eget pharetra molestie. Nulla facilisi. Aliquam vel suscipit massa, non maximus purus. Nunc mauris turpis, imperdiet vel orci bibendum, dignissim aliquam erat. Fusce id consequat risus. Phasellus urna turpis, lacinia placerat mi eu, vulputate sagittis velit.",
                "speaker": [
                   {
-                     "name": "Aurelio De Rosa clone 2",
-                     "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent vitae sollicitudin nibh. Mauris in blandit eros, sit amet feugiat eros. Praesent placerat ante eget pharetra molestie. Nulla facilisi. Aliquam vel suscipit massa, non maximus purus. Nunc mauris turpis, imperdiet vel orci bibendum, dignissim aliquam erat. Fusce id consequat risus. Phasellus urna turpis, lacinia placerat mi eu, vulputate sagittis velit.",
-                     "avatar": "http://www.gravatar.com/avatar/8b01a8b4d7a0a9079a4e97b1ddedbe56",
-                     "twitter": "AurelioDeRosa2",
-                     "website": "http://www.audero.it"
+                     "name": "Carl Sandberg",
+                     "bio": "stuff and things that need to be talked about",
+                     "avatar": "https://nsryan2.github.io/simple-conference/img/speakers/speaker.jpeg",
+                     "twitter": "ANS_Illinois",
+                     "website": "https://nsryan2.github.io/simple-conference/speakers.html"
                   }
                ],
                "startTime": "09:30",
@@ -371,11 +371,11 @@
                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent vitae sollicitudin nibh. Mauris in blandit eros, sit amet feugiat eros. Praesent placerat ante eget pharetra molestie. Nulla facilisi. Aliquam vel suscipit massa, non maximus purus. Nunc mauris turpis, imperdiet vel orci bibendum, dignissim aliquam erat. Fusce id consequat risus. Phasellus urna turpis, lacinia placerat mi eu, vulputate sagittis velit.",
                "speaker": [
                   {
-                     "name": "Aurelio De Rosa clone 3",
-                     "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent vitae sollicitudin nibh. Mauris in blandit eros, sit amet feugiat eros. Praesent placerat ante eget pharetra molestie. Nulla facilisi. Aliquam vel suscipit massa, non maximus purus. Nunc mauris turpis, imperdiet vel orci bibendum, dignissim aliquam erat. Fusce id consequat risus. Phasellus urna turpis, lacinia placerat mi eu, vulputate sagittis velit.",
-                     "avatar": "http://www.gravatar.com/avatar/8b01a8b4d7a0a9079a4e97b1ddedbe56",
-                     "twitter": "AurelioDeRosa3",
-                     "website": "http://www.audero.it"
+                     "name": "Carl Sandberg",
+                     "bio": "stuff and things that need to be talked about",
+                     "avatar": "https://nsryan2.github.io/simple-conference/img/speakers/speaker.jpeg",
+                     "twitter": "ANS_Illinois",
+                     "website": "https://nsryan2.github.io/simple-conference/speakers.html"
                   }
                ],
                "startTime": "10:30",
@@ -387,11 +387,11 @@
                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent vitae sollicitudin nibh. Mauris in blandit eros, sit amet feugiat eros. Praesent placerat ante eget pharetra molestie. Nulla facilisi. Aliquam vel suscipit massa, non maximus purus. Nunc mauris turpis, imperdiet vel orci bibendum, dignissim aliquam erat. Fusce id consequat risus. Phasellus urna turpis, lacinia placerat mi eu, vulputate sagittis velit.",
                "speaker": [
                   {
-                     "name": "Aurelio De Rosa clone 4",
-                     "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent vitae sollicitudin nibh. Mauris in blandit eros, sit amet feugiat eros. Praesent placerat ante eget pharetra molestie. Nulla facilisi. Aliquam vel suscipit massa, non maximus purus. Nunc mauris turpis, imperdiet vel orci bibendum, dignissim aliquam erat. Fusce id consequat risus. Phasellus urna turpis, lacinia placerat mi eu, vulputate sagittis velit.",
-                     "avatar": "http://www.gravatar.com/avatar/8b01a8b4d7a0a9079a4e97b1ddedbe56",
-                     "twitter": "AurelioDeRosa4",
-                     "website": "http://www.audero.it"
+                     "name": "Carl Sandberg",
+                     "bio": "stuff and things that need to be talked about",
+                     "avatar": "https://nsryan2.github.io/simple-conference/img/speakers/speaker.jpeg",
+                     "twitter": "ANS_Illinois",
+                     "website": "https://nsryan2.github.io/simple-conference/speakers.html"
                   }
                ],
                "startTime": "11:15",
@@ -403,11 +403,11 @@
                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent vitae sollicitudin nibh. Mauris in blandit eros, sit amet feugiat eros. Praesent placerat ante eget pharetra molestie. Nulla facilisi. Aliquam vel suscipit massa, non maximus purus. Nunc mauris turpis, imperdiet vel orci bibendum, dignissim aliquam erat. Fusce id consequat risus. Phasellus urna turpis, lacinia placerat mi eu, vulputate sagittis velit.",
                "speaker": [
                   {
-                     "name": "Aurelio De Rosa clone 5",
-                     "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent vitae sollicitudin nibh. Mauris in blandit eros, sit amet feugiat eros. Praesent placerat ante eget pharetra molestie. Nulla facilisi. Aliquam vel suscipit massa, non maximus purus. Nunc mauris turpis, imperdiet vel orci bibendum, dignissim aliquam erat. Fusce id consequat risus. Phasellus urna turpis, lacinia placerat mi eu, vulputate sagittis velit.",
-                     "avatar": "http://www.gravatar.com/avatar/8b01a8b4d7a0a9079a4e97b1ddedbe56",
-                     "twitter": "AurelioDeRosa5",
-                     "website": "http://www.audero.it"
+                     "name": "Carl Sandberg",
+                     "bio": "stuff and things that need to be talked about",
+                     "avatar": "https://nsryan2.github.io/simple-conference/img/speakers/speaker.jpeg",
+                     "twitter": "ANS_Illinois",
+                     "website": "https://nsryan2.github.io/simple-conference/speakers.html"
                   }
                ],
                "startTime": "12:00",
@@ -415,17 +415,17 @@
                "language": "English"
             }
          ],
-         "Track 2": [
+         "Events": [
             {
                "title": "This is test title 6",
                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent vitae sollicitudin nibh. Mauris in blandit eros, sit amet feugiat eros. Praesent placerat ante eget pharetra molestie. Nulla facilisi. Aliquam vel suscipit massa, non maximus purus. Nunc mauris turpis, imperdiet vel orci bibendum, dignissim aliquam erat. Fusce id consequat risus. Phasellus urna turpis, lacinia placerat mi eu, vulputate sagittis velit.",
                "speaker": [
                   {
-                     "name": "Aurelio De Rosa clone 6",
-                     "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent vitae sollicitudin nibh. Mauris in blandit eros, sit amet feugiat eros. Praesent placerat ante eget pharetra molestie. Nulla facilisi. Aliquam vel suscipit massa, non maximus purus. Nunc mauris turpis, imperdiet vel orci bibendum, dignissim aliquam erat. Fusce id consequat risus. Phasellus urna turpis, lacinia placerat mi eu, vulputate sagittis velit.",
-                     "avatar": "http://www.gravatar.com/avatar/8b01a8b4d7a0a9079a4e97b1ddedbe56",
-                     "twitter": "AurelioDeRosa6",
-                     "website": "http://www.audero.it"
+                     "name": "Carl Sandberg",
+                     "bio": "stuff and things that need to be talked about",
+                     "avatar": "https://nsryan2.github.io/simple-conference/img/speakers/speaker.jpeg",
+                     "twitter": "ANS_Illinois",
+                     "website": "https://nsryan2.github.io/simple-conference/speakers.html"
                   }
                ],
                "startTime": "09:00",
@@ -437,11 +437,11 @@
                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent vitae sollicitudin nibh. Mauris in blandit eros, sit amet feugiat eros. Praesent placerat ante eget pharetra molestie. Nulla facilisi. Aliquam vel suscipit massa, non maximus purus. Nunc mauris turpis, imperdiet vel orci bibendum, dignissim aliquam erat. Fusce id consequat risus. Phasellus urna turpis, lacinia placerat mi eu, vulputate sagittis velit.",
                "speaker": [
                   {
-                     "name": "Aurelio De Rosa clone 7",
-                     "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent vitae sollicitudin nibh. Mauris in blandit eros, sit amet feugiat eros. Praesent placerat ante eget pharetra molestie. Nulla facilisi. Aliquam vel suscipit massa, non maximus purus. Nunc mauris turpis, imperdiet vel orci bibendum, dignissim aliquam erat. Fusce id consequat risus. Phasellus urna turpis, lacinia placerat mi eu, vulputate sagittis velit.",
-                     "avatar": "http://www.gravatar.com/avatar/8b01a8b4d7a0a9079a4e97b1ddedbe56",
-                     "twitter": "AurelioDeRosa7",
-                     "website": "http://www.audero.it"
+                     "name": "Carl Sandberg",
+                     "bio": "stuff and things that need to be talked about",
+                     "avatar": "https://nsryan2.github.io/simple-conference/img/speakers/speaker.jpeg",
+                     "twitter": "ANS_Illinois",
+                     "website": "https://nsryan2.github.io/simple-conference/speakers.html"
                   }
                ],
                "startTime": "09:45",
@@ -453,11 +453,11 @@
                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent vitae sollicitudin nibh. Mauris in blandit eros, sit amet feugiat eros. Praesent placerat ante eget pharetra molestie. Nulla facilisi. Aliquam vel suscipit massa, non maximus purus. Nunc mauris turpis, imperdiet vel orci bibendum, dignissim aliquam erat. Fusce id consequat risus. Phasellus urna turpis, lacinia placerat mi eu, vulputate sagittis velit.",
                "speaker": [
                   {
-                     "name": "Aurelio De Rosa clone 8",
-                     "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent vitae sollicitudin nibh. Mauris in blandit eros, sit amet feugiat eros. Praesent placerat ante eget pharetra molestie. Nulla facilisi. Aliquam vel suscipit massa, non maximus purus. Nunc mauris turpis, imperdiet vel orci bibendum, dignissim aliquam erat. Fusce id consequat risus. Phasellus urna turpis, lacinia placerat mi eu, vulputate sagittis velit.",
-                     "avatar": "http://www.gravatar.com/avatar/8b01a8b4d7a0a9079a4e97b1ddedbe56",
-                     "twitter": "AurelioDeRosa8",
-                     "website": "http://www.audero.it"
+                     "name": "Carl Sandberg",
+                     "bio": "stuff and things that need to be talked about",
+                     "avatar": "https://nsryan2.github.io/simple-conference/img/speakers/speaker.jpeg",
+                     "twitter": "ANS_Illinois",
+                     "website": "https://nsryan2.github.io/simple-conference/speakers.html"
                   }
                ],
                "startTime": "10:30",
@@ -469,11 +469,11 @@
                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent vitae sollicitudin nibh. Mauris in blandit eros, sit amet feugiat eros. Praesent placerat ante eget pharetra molestie. Nulla facilisi. Aliquam vel suscipit massa, non maximus purus. Nunc mauris turpis, imperdiet vel orci bibendum, dignissim aliquam erat. Fusce id consequat risus. Phasellus urna turpis, lacinia placerat mi eu, vulputate sagittis velit.",
                "speaker": [
                   {
-                     "name": "Aurelio De Rosa clone 9",
-                     "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent vitae sollicitudin nibh. Mauris in blandit eros, sit amet feugiat eros. Praesent placerat ante eget pharetra molestie. Nulla facilisi. Aliquam vel suscipit massa, non maximus purus. Nunc mauris turpis, imperdiet vel orci bibendum, dignissim aliquam erat. Fusce id consequat risus. Phasellus urna turpis, lacinia placerat mi eu, vulputate sagittis velit.",
-                     "avatar": "http://www.gravatar.com/avatar/8b01a8b4d7a0a9079a4e97b1ddedbe56",
-                     "twitter": "AurelioDeRosa9",
-                     "website": "http://www.audero.it"
+                     "name": "Carl Sandberg",
+                     "bio": "stuff and things that need to be talked about",
+                     "avatar": "https://nsryan2.github.io/simple-conference/img/speakers/speaker.jpeg",
+                     "twitter": "ANS_Illinois",
+                     "website": "https://nsryan2.github.io/simple-conference/speakers.html"
                   }
                ],
                "startTime": "11:15",
@@ -485,11 +485,11 @@
                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent vitae sollicitudin nibh. Mauris in blandit eros, sit amet feugiat eros. Praesent placerat ante eget pharetra molestie. Nulla facilisi. Aliquam vel suscipit massa, non maximus purus. Nunc mauris turpis, imperdiet vel orci bibendum, dignissim aliquam erat. Fusce id consequat risus. Phasellus urna turpis, lacinia placerat mi eu, vulputate sagittis velit.",
                "speaker": [
                   {
-                     "name": "Aurelio De Rosa clone 10",
-                     "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent vitae sollicitudin nibh. Mauris in blandit eros, sit amet feugiat eros. Praesent placerat ante eget pharetra molestie. Nulla facilisi. Aliquam vel suscipit massa, non maximus purus. Nunc mauris turpis, imperdiet vel orci bibendum, dignissim aliquam erat. Fusce id consequat risus. Phasellus urna turpis, lacinia placerat mi eu, vulputate sagittis velit.",
-                     "avatar": "http://www.gravatar.com/avatar/8b01a8b4d7a0a9079a4e97b1ddedbe56",
-                     "twitter": "AurelioDeRosa10",
-                     "website": "http://www.audero.it"
+                     "name": "Carl Sandberg",
+                     "bio": "stuff and things that need to be talked about",
+                     "avatar": "https://nsryan2.github.io/simple-conference/img/speakers/speaker.jpeg",
+                     "twitter": "ANS_Illinois",
+                     "website": "https://nsryan2.github.io/simple-conference/speakers.html"
                   }
                ],
                "startTime": "12:00",
@@ -499,17 +499,17 @@
          ]
       },
       "04/10/2021": {
-         "Track 1": [
+         "Speakers": [
             {
                "title": "This is test title 11",
                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent vitae sollicitudin nibh. Mauris in blandit eros, sit amet feugiat eros. Praesent placerat ante eget pharetra molestie. Nulla facilisi. Aliquam vel suscipit massa, non maximus purus. Nunc mauris turpis, imperdiet vel orci bibendum, dignissim aliquam erat. Fusce id consequat risus. Phasellus urna turpis, lacinia placerat mi eu, vulputate sagittis velit.",
                "speaker": [
                   {
-                     "name": "Aurelio De Rosa clone 11",
-                     "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent vitae sollicitudin nibh. Mauris in blandit eros, sit amet feugiat eros. Praesent placerat ante eget pharetra molestie. Nulla facilisi. Aliquam vel suscipit massa, non maximus purus. Nunc mauris turpis, imperdiet vel orci bibendum, dignissim aliquam erat. Fusce id consequat risus. Phasellus urna turpis, lacinia placerat mi eu, vulputate sagittis velit.",
-                     "avatar": "http://www.gravatar.com/avatar/8b01a8b4d7a0a9079a4e97b1ddedbe56",
-                     "twitter": "AurelioDeRosa11",
-                     "website": "http://www.audero.it"
+                     "name": "Carl Sandberg",
+                     "bio": "stuff and things that need to be talked about",
+                     "avatar": "https://nsryan2.github.io/simple-conference/img/speakers/speaker.jpeg",
+                     "twitter": "ANS_Illinois",
+                     "website": "https://nsryan2.github.io/simple-conference/speakers.html"
                   }
                ],
                "startTime": "09:00",
@@ -521,11 +521,11 @@
                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent vitae sollicitudin nibh. Mauris in blandit eros, sit amet feugiat eros. Praesent placerat ante eget pharetra molestie. Nulla facilisi. Aliquam vel suscipit massa, non maximus purus. Nunc mauris turpis, imperdiet vel orci bibendum, dignissim aliquam erat. Fusce id consequat risus. Phasellus urna turpis, lacinia placerat mi eu, vulputate sagittis velit.",
                "speaker": [
                   {
-                     "name": "Aurelio De Rosa clone 12",
-                     "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent vitae sollicitudin nibh. Mauris in blandit eros, sit amet feugiat eros. Praesent placerat ante eget pharetra molestie. Nulla facilisi. Aliquam vel suscipit massa, non maximus purus. Nunc mauris turpis, imperdiet vel orci bibendum, dignissim aliquam erat. Fusce id consequat risus. Phasellus urna turpis, lacinia placerat mi eu, vulputate sagittis velit.",
-                     "avatar": "http://www.gravatar.com/avatar/8b01a8b4d7a0a9079a4e97b1ddedbe56",
-                     "twitter": "AurelioDeRosa12",
-                     "website": "http://www.audero.it"
+                     "name": "Carl Sandberg",
+                     "bio": "stuff and things that need to be talked about",
+                     "avatar": "https://nsryan2.github.io/simple-conference/img/speakers/speaker.jpeg",
+                     "twitter": "ANS_Illinois",
+                     "website": "https://nsryan2.github.io/simple-conference/speakers.html"
                   }
                ],
                "startTime": "09:45",
@@ -537,11 +537,11 @@
                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent vitae sollicitudin nibh. Mauris in blandit eros, sit amet feugiat eros. Praesent placerat ante eget pharetra molestie. Nulla facilisi. Aliquam vel suscipit massa, non maximus purus. Nunc mauris turpis, imperdiet vel orci bibendum, dignissim aliquam erat. Fusce id consequat risus. Phasellus urna turpis, lacinia placerat mi eu, vulputate sagittis velit.",
                "speaker": [
                   {
-                     "name": "Aurelio De Rosa clone 13",
-                     "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent vitae sollicitudin nibh. Mauris in blandit eros, sit amet feugiat eros. Praesent placerat ante eget pharetra molestie. Nulla facilisi. Aliquam vel suscipit massa, non maximus purus. Nunc mauris turpis, imperdiet vel orci bibendum, dignissim aliquam erat. Fusce id consequat risus. Phasellus urna turpis, lacinia placerat mi eu, vulputate sagittis velit.",
-                     "avatar": "http://www.gravatar.com/avatar/8b01a8b4d7a0a9079a4e97b1ddedbe56",
-                     "twitter": "AurelioDeRosa13",
-                     "website": "http://www.audero.it"
+                     "name": "Carl Sandberg",
+                     "bio": "stuff and things that need to be talked about",
+                     "avatar": "https://nsryan2.github.io/simple-conference/img/speakers/speaker.jpeg",
+                     "twitter": "ANS_Illinois",
+                     "website": "https://nsryan2.github.io/simple-conference/speakers.html"
                   }
                ],
                "startTime": "10:30",
@@ -553,11 +553,11 @@
                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent vitae sollicitudin nibh. Mauris in blandit eros, sit amet feugiat eros. Praesent placerat ante eget pharetra molestie. Nulla facilisi. Aliquam vel suscipit massa, non maximus purus. Nunc mauris turpis, imperdiet vel orci bibendum, dignissim aliquam erat. Fusce id consequat risus. Phasellus urna turpis, lacinia placerat mi eu, vulputate sagittis velit.",
                "speaker": [
                   {
-                     "name": "Aurelio De Rosa clone 14",
-                     "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent vitae sollicitudin nibh. Mauris in blandit eros, sit amet feugiat eros. Praesent placerat ante eget pharetra molestie. Nulla facilisi. Aliquam vel suscipit massa, non maximus purus. Nunc mauris turpis, imperdiet vel orci bibendum, dignissim aliquam erat. Fusce id consequat risus. Phasellus urna turpis, lacinia placerat mi eu, vulputate sagittis velit.",
-                     "avatar": "http://www.gravatar.com/avatar/8b01a8b4d7a0a9079a4e97b1ddedbe56",
-                     "twitter": "AurelioDeRosa14",
-                     "website": "http://www.audero.it"
+                     "name": "Carl Sandberg",
+                     "bio": "stuff and things that need to be talked about",
+                     "avatar": "https://nsryan2.github.io/simple-conference/img/speakers/speaker.jpeg",
+                     "twitter": "ANS_Illinois",
+                     "website": "https://nsryan2.github.io/simple-conference/speakers.html"
                   }
                ],
                "startTime": "11:15",
@@ -569,11 +569,11 @@
                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent vitae sollicitudin nibh. Mauris in blandit eros, sit amet feugiat eros. Praesent placerat ante eget pharetra molestie. Nulla facilisi. Aliquam vel suscipit massa, non maximus purus. Nunc mauris turpis, imperdiet vel orci bibendum, dignissim aliquam erat. Fusce id consequat risus. Phasellus urna turpis, lacinia placerat mi eu, vulputate sagittis velit.",
                "speaker": [
                   {
-                     "name": "Aurelio De Rosa clone 15",
-                     "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent vitae sollicitudin nibh. Mauris in blandit eros, sit amet feugiat eros. Praesent placerat ante eget pharetra molestie. Nulla facilisi. Aliquam vel suscipit massa, non maximus purus. Nunc mauris turpis, imperdiet vel orci bibendum, dignissim aliquam erat. Fusce id consequat risus. Phasellus urna turpis, lacinia placerat mi eu, vulputate sagittis velit.",
-                     "avatar": "http://www.gravatar.com/avatar/8b01a8b4d7a0a9079a4e97b1ddedbe56",
-                     "twitter": "AurelioDeRosa15",
-                     "website": "http://www.audero.it"
+                     "name": "Carl Sandberg",
+                     "bio": "stuff and things that need to be talked about",
+                     "avatar": "https://nsryan2.github.io/simple-conference/img/speakers/speaker.jpeg",
+                     "twitter": "ANS_Illinois",
+                     "website": "https://nsryan2.github.io/simple-conference/speakers.html"
                   }
                ],
                "startTime": "12:00",
@@ -581,17 +581,17 @@
                "language": "English"
             }
          ],
-         "Track 2": [
+         "Events": [
             {
                "title": "This is test title 16",
                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent vitae sollicitudin nibh. Mauris in blandit eros, sit amet feugiat eros. Praesent placerat ante eget pharetra molestie. Nulla facilisi. Aliquam vel suscipit massa, non maximus purus. Nunc mauris turpis, imperdiet vel orci bibendum, dignissim aliquam erat. Fusce id consequat risus. Phasellus urna turpis, lacinia placerat mi eu, vulputate sagittis velit.",
                "speaker": [
                   {
-                     "name": "Aurelio De Rosa clone 16",
-                     "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent vitae sollicitudin nibh. Mauris in blandit eros, sit amet feugiat eros. Praesent placerat ante eget pharetra molestie. Nulla facilisi. Aliquam vel suscipit massa, non maximus purus. Nunc mauris turpis, imperdiet vel orci bibendum, dignissim aliquam erat. Fusce id consequat risus. Phasellus urna turpis, lacinia placerat mi eu, vulputate sagittis velit.",
-                     "avatar": "http://www.gravatar.com/avatar/8b01a8b4d7a0a9079a4e97b1ddedbe56",
-                     "twitter": "AurelioDeRosa16",
-                     "website": "http://www.audero.it"
+                     "name": "Carl Sandberg",
+                     "bio": "stuff and things that need to be talked about",
+                     "avatar": "https://nsryan2.github.io/simple-conference/img/speakers/speaker.jpeg",
+                     "twitter": "ANS_Illinois",
+                     "website": "https://nsryan2.github.io/simple-conference/speakers.html"
                   }
                ],
                "startTime": "09:00",
@@ -603,11 +603,11 @@
                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent vitae sollicitudin nibh. Mauris in blandit eros, sit amet feugiat eros. Praesent placerat ante eget pharetra molestie. Nulla facilisi. Aliquam vel suscipit massa, non maximus purus. Nunc mauris turpis, imperdiet vel orci bibendum, dignissim aliquam erat. Fusce id consequat risus. Phasellus urna turpis, lacinia placerat mi eu, vulputate sagittis velit.",
                "speaker": [
                   {
-                     "name": "Aurelio De Rosa clone 17",
-                     "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent vitae sollicitudin nibh. Mauris in blandit eros, sit amet feugiat eros. Praesent placerat ante eget pharetra molestie. Nulla facilisi. Aliquam vel suscipit massa, non maximus purus. Nunc mauris turpis, imperdiet vel orci bibendum, dignissim aliquam erat. Fusce id consequat risus. Phasellus urna turpis, lacinia placerat mi eu, vulputate sagittis velit.",
-                     "avatar": "http://www.gravatar.com/avatar/8b01a8b4d7a0a9079a4e97b1ddedbe56",
-                     "twitter": "AurelioDeRosa17",
-                     "website": "http://www.audero.it"
+                     "name": "Carl Sandberg",
+                     "bio": "stuff and things that need to be talked about",
+                     "avatar": "https://nsryan2.github.io/simple-conference/img/speakers/speaker.jpeg",
+                     "twitter": "ANS_Illinois",
+                     "website": "https://nsryan2.github.io/simple-conference/speakers.html"
                   }
                ],
                "startTime": "09:45",
@@ -619,11 +619,11 @@
                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent vitae sollicitudin nibh. Mauris in blandit eros, sit amet feugiat eros. Praesent placerat ante eget pharetra molestie. Nulla facilisi. Aliquam vel suscipit massa, non maximus purus. Nunc mauris turpis, imperdiet vel orci bibendum, dignissim aliquam erat. Fusce id consequat risus. Phasellus urna turpis, lacinia placerat mi eu, vulputate sagittis velit.",
                "speaker": [
                   {
-                     "name": "Aurelio De Rosa clone 18",
-                     "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent vitae sollicitudin nibh. Mauris in blandit eros, sit amet feugiat eros. Praesent placerat ante eget pharetra molestie. Nulla facilisi. Aliquam vel suscipit massa, non maximus purus. Nunc mauris turpis, imperdiet vel orci bibendum, dignissim aliquam erat. Fusce id consequat risus. Phasellus urna turpis, lacinia placerat mi eu, vulputate sagittis velit.",
-                     "avatar": "http://www.gravatar.com/avatar/8b01a8b4d7a0a9079a4e97b1ddedbe56",
-                     "twitter": "AurelioDeRosa18",
-                     "website": "http://www.audero.it"
+                     "name": "Carl Sandberg",
+                     "bio": "stuff and things that need to be talked about",
+                     "avatar": "https://nsryan2.github.io/simple-conference/img/speakers/speaker.jpeg",
+                     "twitter": "ANS_Illinois",
+                     "website": "https://nsryan2.github.io/simple-conference/speakers.html"
                   }
                ],
                "startTime": "10:30",
@@ -635,11 +635,11 @@
                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent vitae sollicitudin nibh. Mauris in blandit eros, sit amet feugiat eros. Praesent placerat ante eget pharetra molestie. Nulla facilisi. Aliquam vel suscipit massa, non maximus purus. Nunc mauris turpis, imperdiet vel orci bibendum, dignissim aliquam erat. Fusce id consequat risus. Phasellus urna turpis, lacinia placerat mi eu, vulputate sagittis velit.",
                "speaker": [
                   {
-                     "name": "Aurelio De Rosa clone 19",
-                     "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent vitae sollicitudin nibh. Mauris in blandit eros, sit amet feugiat eros. Praesent placerat ante eget pharetra molestie. Nulla facilisi. Aliquam vel suscipit massa, non maximus purus. Nunc mauris turpis, imperdiet vel orci bibendum, dignissim aliquam erat. Fusce id consequat risus. Phasellus urna turpis, lacinia placerat mi eu, vulputate sagittis velit.",
-                     "avatar": "http://www.gravatar.com/avatar/8b01a8b4d7a0a9079a4e97b1ddedbe56",
-                     "twitter": "AurelioDeRosa19",
-                     "website": "http://www.audero.it"
+                     "name": "Carl Sandberg",
+                     "bio": "stuff and things that need to be talked about",
+                     "avatar": "https://nsryan2.github.io/simple-conference/img/speakers/speaker.jpeg",
+                     "twitter": "ANS_Illinois",
+                     "website": "https://nsryan2.github.io/simple-conference/speakers.html"
                   }
                ],
                "startTime": "11:15",
@@ -651,11 +651,11 @@
                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent vitae sollicitudin nibh. Mauris in blandit eros, sit amet feugiat eros. Praesent placerat ante eget pharetra molestie. Nulla facilisi. Aliquam vel suscipit massa, non maximus purus. Nunc mauris turpis, imperdiet vel orci bibendum, dignissim aliquam erat. Fusce id consequat risus. Phasellus urna turpis, lacinia placerat mi eu, vulputate sagittis velit.",
                "speaker": [
                   {
-                     "name": "Aurelio De Rosa clone 20",
-                     "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent vitae sollicitudin nibh. Mauris in blandit eros, sit amet feugiat eros. Praesent placerat ante eget pharetra molestie. Nulla facilisi. Aliquam vel suscipit massa, non maximus purus. Nunc mauris turpis, imperdiet vel orci bibendum, dignissim aliquam erat. Fusce id consequat risus. Phasellus urna turpis, lacinia placerat mi eu, vulputate sagittis velit.",
-                     "avatar": "http://www.gravatar.com/avatar/8b01a8b4d7a0a9079a4e97b1ddedbe56",
-                     "twitter": "AurelioDeRosa20",
-                     "website": "http://www.audero.it"
+                     "name": "Carl Sandberg",
+                     "bio": "stuff and things that need to be talked about",
+                     "avatar": "https://nsryan2.github.io/simple-conference/img/speakers/speaker.jpeg",
+                     "twitter": "ANS_Illinois",
+                     "website": "https://nsryan2.github.io/simple-conference/speakers.html"
                   }
                ],
                "startTime": "12:00",

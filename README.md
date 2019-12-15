@@ -1,2 +1,2 @@
 # SC-2021-app
-<a href="ansuiuc.github.io/SC-2021-app">Link to site</a>
+<a href="https://ansuiuc.github.io/SC-2021-app/#/conference">Link to site</a>
